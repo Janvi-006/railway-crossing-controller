@@ -1,0 +1,104 @@
+$date
+	Sun Jan 18 19:02:11 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module railway_tb $end
+$var wire 1 ! signal $end
+$var wire 1 " gate $end
+$var reg 1 # clk $end
+$var reg 1 $ reset $end
+$var reg 1 % train_detect $end
+$scope module uut $end
+$var wire 1 # clk $end
+$var wire 1 $ reset $end
+$var wire 1 % train_detect $end
+$var reg 1 " gate $end
+$var reg 1 ! signal $end
+$var reg 2 & state [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 &
+0%
+1$
+0#
+0"
+0!
+$end
+#5
+1#
+#10
+0#
+0$
+#15
+1#
+#20
+0#
+#25
+1#
+#30
+0#
+1%
+#35
+1!
+1"
+b1 &
+1#
+#40
+0#
+#45
+b10 &
+1#
+#50
+0#
+0%
+#55
+0!
+0"
+b0 &
+1#
+#60
+0#
+#65
+1#
+#70
+0#
+#75
+1#
+#80
+0#
+#85
+1#
+#90
+0#
+#95
+1#
+#100
+0#
+#105
+1#
+#110
+0#
+#115
+1#
+#120
+0#
+#125
+1#
+#130
+0#
+#135
+1#
+#140
+0#
+#145
+1#
+#150
+0#
