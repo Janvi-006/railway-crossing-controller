@@ -33,3 +33,16 @@ The FSM structure made it easier to organize logic and transitions.
 - Icarus Verilog (simulation)
 - GTKWave (waveform viewer)
 - VS Code
+
+## how to run simulation
+```
+iverilog -o railway.out adaptive_railway.v adaptive_tb.v
+vvp railway.out
+gtkwave railway.vcd
+```
+## What I Learned
+- Basics of FSM-based design
+- Sequential logic behavior
+- Simulation workflow
+- Debugging digital circuits
+- Structuring HDL projects
