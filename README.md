@@ -46,3 +46,6 @@ gtkwave railway.vcd
 - Simulation workflow
 - Debugging digital circuits
 - Structuring HDL projects
+
+## Author
+Janvi
