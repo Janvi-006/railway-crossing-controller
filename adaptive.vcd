@@ -1,0 +1,177 @@
+$date
+	Thu Feb 12 23:01:19 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module adaptive_tb $end
+$var wire 1 ! signal $end
+$var wire 1 " gate $end
+$var reg 1 # clk $end
+$var reg 1 $ reset $end
+$var reg 1 % sensor_A $end
+$var reg 1 & sensor_B $end
+$scope module uut $end
+$var wire 1 # clk $end
+$var wire 1 $ reset $end
+$var wire 1 % sensor_A $end
+$var wire 1 & sensor_B $end
+$var reg 1 " gate $end
+$var reg 3 ' next_state [2:0] $end
+$var reg 1 ! signal $end
+$var reg 3 ( state [2:0] $end
+$var reg 4 ) timer [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx )
+b0 (
+b0 '
+0&
+0%
+1$
+0#
+0"
+0!
+$end
+#5
+b0 )
+1#
+#10
+0#
+0$
+#15
+1#
+#20
+0#
+#25
+1#
+#30
+b1 '
+0#
+1%
+#35
+1!
+1"
+b10 '
+b1 (
+1#
+#40
+0#
+#45
+b10 (
+1#
+#50
+b11 '
+0#
+1&
+0%
+#55
+b11 (
+1#
+#60
+0#
+#65
+b1 )
+1#
+#70
+0#
+0&
+#75
+b10 )
+1#
+#80
+0#
+#85
+b11 )
+1#
+#90
+0#
+#95
+b100 )
+1#
+#100
+0#
+#105
+b101 )
+1#
+#110
+0#
+#115
+b100 '
+b110 )
+1#
+#120
+0#
+#125
+0!
+0"
+b0 '
+b111 )
+b100 (
+1#
+#130
+0#
+#135
+b0 )
+b0 (
+1#
+#140
+0#
+#145
+1#
+#150
+0#
+#155
+1#
+#160
+0#
+#165
+1#
+#170
+0#
+#175
+1#
+#180
+0#
+#185
+1#
+#190
+0#
+#195
+1#
+#200
+0#
+#205
+1#
+#210
+0#
+#215
+1#
+#220
+0#
+#225
+1#
+#230
+0#
+#235
+1#
+#240
+0#
+#245
+1#
+#250
+0#
+#255
+1#
+#260
+0#
+#265
+1#
+#270
+0#
